@@ -1,0 +1,15 @@
+[submodule "taskflow-bff"]
+	path = taskflow-bff
+	url = https://github.com/bernardogazola/taskflow-bff.git
+[submodule "taskflow-enrichment-function"]
+	path = taskflow-enrichment-function
+	url = https://github.com/bernardogazola/taskflow-enrichment-function.git
+[submodule "taskflow-frontend"]
+	path = taskflow-frontend
+	url = https://github.com/bernardogazola/taskflow-frontend.git
+[submodule "taskflow-task-service"]
+	path = taskflow-task-service
+	url = https://github.com/bernardogazola/taskflow-task-service.git
+[submodule "taskflow-user-service"]
+	path = taskflow-user-service
+	url = https://github.com/bernardogazola/taskflow-user-service.git
