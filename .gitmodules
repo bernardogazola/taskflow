@@ -13,3 +13,6 @@
 [submodule "taskflow-user-service"]
 	path = taskflow-user-service
 	url = https://github.com/bernardogazola/taskflow-user-service.git
+[submodule "taskflow-api-gateway"]
+	path = taskflow-api-gateway
+	url = https://github.com/bernardogazola/taskflow-api-gateway.git
